@@ -1,0 +1,8 @@
+baseURL: http://filipstachura.com/
+languageCode: en-us
+title: Filip Stachura .com
+theme: "PaperMod"
+
+enableRobotsTXT: true
+
+
