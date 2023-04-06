@@ -10,7 +10,7 @@ buildDrafts: true
 params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
-  ShowToc: true
+  ShowToc: false
 
   homeInfoParams:
     Title: "My public notes"
