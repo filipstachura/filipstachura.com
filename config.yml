@@ -1,8 +1,34 @@
-baseURL: http://filipstachura.com/
+baseURL: filipstachura.com/
 languageCode: en-us
-title: Filip Stachura .com
+title: filipstachura.com
 theme: "PaperMod"
 
 enableRobotsTXT: true
 
+buildDrafts: true
 
+params:
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+
+  homeInfoParams:
+    Title: "My public notes"
+    Content: >
+        - Thoughts on technology and open source, machine learning, AI, decision support systems, open datasets, Data 4 Good, and various aspects of building companies with and without investors.
+
+        -
+
+        - Occasionally about other things - like raising kids 🙃 
+
+        - I'm the co-founder and CEO of [Appsilon](appsilon.com) 💙
+
+  socialIcons:
+    - name: github
+      url: https://github.com/filipstachura 
+    - name: linkedin
+      url: https://www.linkedin.com/in/filipstachura/
+    - name: twitter
+      url: https://twitter.com/filipstachura
+    - name: Rss
+      url: "index.xml"
