@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Filip Stachura .com</title>
-    <link>http://filipstachura.com/tags/</link>
-    <description>Recent content in Tags on Filip Stachura .com</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://filipstachura.com/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on filipstachura.com</title><link>filipstachura.com/tags/</link><description>Recent content in Tags on filipstachura.com</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="filipstachura.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
